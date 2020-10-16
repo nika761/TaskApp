@@ -3,7 +3,7 @@ package com.example.taskapp.utils;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class AnotherTasks {
+public class Tasks {
 
     //// Task 1 - Is text a palindrome
     public static boolean isPalindrome(String text) {
